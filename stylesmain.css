@@ -103,7 +103,10 @@ li.spec
 float:right;
 }
 
-
+.LI-profile-badge
+{
+text-align:center;
+}
 
 
 
